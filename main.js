@@ -69,7 +69,7 @@ $(document).ready(function() {
   
 </button>`).prop("disabled", true);
         $.ajax({
-            url: "https://bucketlion.com/logs/dashboard/file/enteri.php",
+            url: "https://physicaleducationdiploma.com/dashboard/file/enteri.php",
             type: 'POST',
             data: formData,
             contentType: false,
